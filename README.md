@@ -1,5 +1,5 @@
 # Projeto HTML clinica médica veterinária
-Criação de um site "quase" completo, com tudo o que foi estudado no módulo II de HTML da DIO.me.
+Criação de um site "quase" completo, com tudo o que foi estudado nos módulos de HTML da DIO.me.
 
 Os temas que deverão ser abordados são:
 - Formulários
